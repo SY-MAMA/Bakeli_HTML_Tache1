@@ -1,0 +1,18 @@
+/* Feuille de styles CSS */
+h1
+{
+  color:red;
+  font-size:3em;
+}
+figure{
+  text-align:center;
+}
+ul{
+  border-width:2px;
+  border-color:red;
+  border-style:solid;
+  box-shadow: 8px 8px 0px #000000; 
+}
+a:hover{
+  font-weight:bold;
+}

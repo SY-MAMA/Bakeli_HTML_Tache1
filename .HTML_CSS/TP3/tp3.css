@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+	margin-top: 30px;
+}
+.sous{
+	text-align: center;
+	margin-top: 50px;
+}
+.photo{
+	text-align: right;
+	
+}
+h2{
+	color: #61380B;
+}
+body
+{
+    background-image: url("fond.jpg");
+}
+img{
+	box-shadow: 3px 3px 0px #4b4949;
+	margin-top: -130px;
+}
+@font-face {
+  font-family: MaHelvetica;
+  font-weight: bold;
+}

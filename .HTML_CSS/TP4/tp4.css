@@ -1,0 +1,19 @@
+/* Feuille de style */
+nav{
+  text-align:center;
+  margin-top:-100px;
+}
+.propo1{
+  width:20%;
+}
+.para1, .para2{
+  width:70%;
+ # background-color:blue;
+  margin-left:3%;
+}
+ul {
+  list-style:none;
+}
+.para{
+  margin-top:3%;
+}
